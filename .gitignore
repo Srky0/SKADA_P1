@@ -22,9 +22,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-dCom/dCom/bin/*
-dCom/Common/bin/*
-dCom/Modbus/bin/*
+dCom/bin/*
+Common/bin/*
+Modbus/bin/*
 
 
 # Visual Studio 2015/2017 cache/options directory
